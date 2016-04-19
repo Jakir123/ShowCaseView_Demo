@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShowCaseView_Demo</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="welcome">Welcome To ShowCase View Demo Apps</string>
+    <string name="btn_submit">Submit</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="action_settings">Setting</string>
+    <string name="search">Search</string>
+    <string name="help">Help</string>
+</resources>
